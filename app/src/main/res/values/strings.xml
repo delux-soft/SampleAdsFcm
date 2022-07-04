@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SampleAdsFcm</string>
+
+    <!--TEST-->
+    <!--App_id-->
+    <string name="app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="app_open_id" translatable="false">ca-app-pub-3940256099942544/3419835294</string>
+    <string name="banner_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="native_ad" translatable="false">ca-app-pub-3940256099942544/2247696110</string>
+
+
+    <!--Original-->
+    <!--App_id-->
+    <!--        <string name="app_id" translatable="false">ca-app-pub-1627749521334309~2974399580</string>-->
+
+    <!--        <string name="app_open_id" translatable="false">ca-app-pub-1627749521334309/6132508941</string>-->
+    <!--        <string name="banner_id" translatable="false">ca-app-pub-1627749521334309/8090994891</string>-->
+    <!--        <string name="interstitial_id" translatable="false">ca-app-pub-1627749521334309/2784372484</string>-->
+    <!--        <string name="native_ad" translatable="false">ca-app-pub-1627749521334309/7435095716</string>-->
+
+    public static final String CHANNEL_ID = "com.zohalapps.background.imager.eraser";
+    <string name="channelId">com.example.sampleadsfcm</string>
+</resources>
